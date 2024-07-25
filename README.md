@@ -22,8 +22,8 @@
 ### Descrição sobre mim 🙋
 ➡️ Meu nome é José Jorge Falasco Jr e estou atualmente cursando o quinto ano de
 Engenharia da Computação na Fundação Hermínio Ometto.
-Minhas competências técnicas incluem programação em Python e C++, análise de
-dados com Power BI, e gerenciamento de bancos de dados SQL. Além disso, tenho
-conhecimento em logística, sistemas Totvs, Excel e AutoCAD.
+Minhas competências técnicas incluem programação em Python e Desenvolvvimento full-stack, análise de
+dados com Power BI, Power Apps, e gerenciamento de bancos de dados SQL. Além disso, tenho
+conhecimento em logística, sistemas Totvs, Pacote office e AutoCAD.
 
 ### Email de contato : Jfalasco88@gmail.com
