@@ -29,4 +29,4 @@ dados com Power BI, Power Apps, e gerenciamento de bancos de dados. Além disso,
 conhecimento em logística, sistemas Totvs, Pacote office e AutoCAD.</h3>
 
 ### Email de contato : Jfalasco88@gmail.com
-### Meu portfólio: https://meu-portfolio-liart-pi.vercel.app/contactos.html
+### Meu portfólio: [https://meu-portfolio-liart-pi.vercel.app/contactos.html](https://meu-portfolio-liart-pi.vercel.app/index.html)
