@@ -23,10 +23,9 @@
 
  <h2>Descrição sobre mim 🙋</h2> 
 <h3> Meu nome é José Jorge Falasco Jr e estou atualmente cursando o quinto ano de
-Engenharia da Computação na Fundação Hermínio Ometto.
-Minhas competências técnicas incluem programação em Python e Desenvolvvimento full-stack, análise de
-dados com Power BI, Power Apps, e gerenciamento de bancos de dados. Além disso, tenho
-conhecimento em logística, sistemas Totvs, Pacote office e AutoCAD.</h3>
+Engenharia da Computação na Fundação Hermínio Ometto.<br>
+Atualmete trabalho como Dev web na empresa Gransys, onde lá desenvolvo sites de e-commerce e oferecemos a melhor solução para você que quer ter sua loja on-line e vender para todo o Brasil.<br>
+Minhas competências incluem programação em HTML, CSS e JavaScript e alguns frameworks como Vue.js, Vuetify e Nuxt.js.</h3>
 
 ### Email de contato : Jfalasco88@gmail.com
 ### Meu portfólio: [https://meu-portfolio-liart-pi.vercel.app/contactos.html](https://meu-portfolio-liart-pi.vercel.app/index.html)
