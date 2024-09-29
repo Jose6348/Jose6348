@@ -8,7 +8,10 @@
 )](https://www.instagram.com/jose.jorge019/?hl=pt_BR)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+<a href="https://github.com/Jose6348">
+
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose6348&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 ### Tecnologias do meu dia a dia 🖥️
 
 <div style = 'display: inline_block'><br/>
