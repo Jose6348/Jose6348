@@ -9,7 +9,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose6348&show_icons=true&theme=onedark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact=onedark)
 ### Tecnologias do meu dia a dia 🖥️
 
 <div style = 'display: inline_block'><br/>
