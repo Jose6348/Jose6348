@@ -24,6 +24,8 @@
     Busco aprimorar minhas habilidades e contribuir para projetos desafiadores que me permitam crescer como profissional.
   </p>
 </div>
+<br>
+<br>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; margin-top: 2rem;">
   <a href="https://www.linkedin.com/in/jos%C3%A9-jorge-falasco-520505207/" target="_blank" rel="noopener noreferrer">
