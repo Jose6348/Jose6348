@@ -14,10 +14,13 @@
 
 <div> 
 <p align="center">
-    <h3>GitHub Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose6348&theme=jolly&hide_border=true" alt="GitHub streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jose6348&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&margin=10px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jose6348&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+</div>
+
+<div>
+      <h3>GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose6348&theme=jolly&hide_border=true" alt="GitHub streak">
 </div>
 
 <br>
