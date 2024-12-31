@@ -21,6 +21,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose6348&theme=jolly&hide_border=true" alt="GitHub streak">
 </div>
 
+<br>
+<p>Meus Contatos</p>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/jos%C3%A9-jorge-falasco-520505207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="http://wa.me/5519996459448" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
