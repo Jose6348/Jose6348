@@ -18,11 +18,6 @@
 </p>
 </div>
 
-<div align="center" style="text-align: center; margin-top: 2rem;">
-  <h3>GitHub Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose6348&theme=jolly&hide_border=true" alt="GitHub streak">
-</div>
-
 <br>
 <h2>Contacts:</h2>
 
