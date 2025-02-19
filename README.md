@@ -26,7 +26,9 @@
 <a href="http://wa.me/5519996459448" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 <a href="https://www.instagram.com/jose.jorge019/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="mailto:Jfalasco88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://meu-portfolio-liart-pi.vercel.app/index.html" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=for-the-badge&logo=portfolio&logoColor=white"</a>
+<a href="https://portfoliojosejorge.netlify.app/#home" target="_blank">
+  <img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio">
+</a>
 </div>
 
 ### Main skills:
