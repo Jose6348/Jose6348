@@ -39,6 +39,7 @@
 ![php](https://img.shields.io/badge/php-35495E?style=for-the-badge&logo=php&logoColor=4FC08D)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C#-1867C0?style=for-the-badge&logo=C#&logoColor=white)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
