@@ -50,11 +50,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jose6348}/count.svg" /></p> 
-<br></div>
-
 <picture align="center" style="margin-top: 2rem;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake.svg">
