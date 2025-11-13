@@ -13,9 +13,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose6348&bg_color=000000&color=9370DB&line=07e9a5&point=9370DB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div> 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jose6348&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 </div>
 
 <br>
