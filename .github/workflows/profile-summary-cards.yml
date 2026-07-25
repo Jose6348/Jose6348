@@ -1,0 +1,32 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # roda todo dia às 03:00 UTC (meia-noite em Brasília)
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Use um Personal Access Token para incluir repositórios privados.
+          # Crie o secret com o nome SUMMARY_GITHUB_TOKEN nas configs do repo.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # -3 = horário de Brasília
+          UTC_OFFSET: -3
+          EXCLUDE: ""
+          AUTO_PUSH: true
