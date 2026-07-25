@@ -7,8 +7,13 @@
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jose6348&show_icons=true&count_private=true&hide_border=true&title_color=B57EDC&icon_color=B57EDC&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="José Jorge GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose6348&layout=compact&hide_border=true&title_color=B57EDC&text_color=B57EDC&bg_color=0d1117&cache_seconds=86400" alt="Linguagens mais usadas" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais commitadas" />
+<img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários mais produtivos" />
+
 </div>
 
 <div align="center">
