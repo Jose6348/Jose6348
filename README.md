@@ -2,17 +2,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=B57EDC&size=30&center=true&vCenter=true&width=750&lines=HELLO,+MY+NAME+is+Jos%C3%A9+Jorge;I'm+a+Full-Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=B57EDC&size=30&height=60&center=true&vCenter=true&width=750&lines=HELLO%2C+MY+NAME+is+Jos%C3%A9+Jorge;I%27m+a+Full-Stack+Developer;Be+Welcome!+%3A%29)](https://github.com/Jose6348)
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub" />
 <img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem" />
-
 <img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais commitadas" />
-<img width="49%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários mais produtivos" />
+
+<img width="70%" src="https://raw.githubusercontent.com/Jose6348/Jose6348/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horários mais produtivos" />
 
 </div>
 
@@ -27,11 +26,11 @@
 ## Contacts:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-jorge-falasco-520505207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/5519996459448" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.instagram.com/jose.jorge019/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:Jfalasco88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://portfoliojosejorge.netlify.app/#home" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-jorge-falasco-520505207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://wa.me/5519996459448" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.instagram.com/jose.jorge019/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:Jfalasco88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://portfoliojosejorge.netlify.app/#home" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
 </div>
 
 <br>
@@ -50,7 +49,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 ### Front-End
 
@@ -80,11 +79,11 @@
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)&nbsp;
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jose6348/Jose6348/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>
